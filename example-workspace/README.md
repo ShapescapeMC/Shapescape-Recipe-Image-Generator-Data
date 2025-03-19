@@ -1,0 +1,1 @@
+This directory contains the data for an example workspace. It's copied to newly generated workspaces when the application is ran.

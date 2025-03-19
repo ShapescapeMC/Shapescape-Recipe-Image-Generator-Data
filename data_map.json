@@ -1,0 +1,1367 @@
+{
+    "concretepowder": {
+        "10": "block-images/Purple Concrete Powder",
+        "11": "block-images/Blue Concrete Powder",
+        "14": "block-images/Red Concrete Powder",
+        "2": "block-images/Magenta Concrete Powder",
+        "3": "block-images/Light Blue Concrete Powder",
+        "4": "block-images/Yellow Concrete Powder",
+        "5": "block-images/Lime Concrete Powder",
+        "9": "block-images/Cyan Concrete Powder"
+    },
+    "double_plant:0": {
+        "0": "RP/textures/blocks/double_plant_sunflower_front"
+    },
+    "minecraft:acacia_boat": {
+        "0": "RP/textures/items/boat_acacia"
+    },
+    "minecraft:amethyst_shard": {
+        "0": "RP/textures/items/amethyst_shard"
+    },
+    "minecraft:ancient_debris": {
+        "0": "block-images/Ancient Debris"
+    },
+    "minecraft:anvil": {
+        "0": "block-images/Anvil"
+    },
+    "minecraft:apple": {
+        "0": "RP/textures/items/apple"
+    },
+    "minecraft:armor_stand": {
+        "0": "RP/textures/items/armor_stand"
+    },
+    "minecraft:arrow": {
+        "0": "RP/textures/items/arrow"
+    },
+    "minecraft:axolotl_bucket": {
+        "0": "RP/textures/items/bucket_axolotl"
+    },
+    "minecraft:bamboo": {
+        "0": "RP/textures/items/bamboo"
+    },
+    "minecraft:bamboo_mosaic": {
+        "0": "block-images/bamboo_mosaic"
+    },
+    "minecraft:bamboo_planks": {
+        "0": "block-images/bamboo_planks"
+    },
+    "minecraft:barrel": {
+        "0": "block-images/Barrel"
+    },
+    "minecraft:beacon": {
+        "0": "block-images/Beacon"
+    },
+    "minecraft:bed": {
+        "0": "RP/textures/items/bed_white",
+        "1": "RP/textures/items/bed_orange",
+        "10": "RP/textures/items/bed_purple",
+        "11": "RP/textures/items/bed_blue",
+        "12": "RP/textures/items/bed_brown",
+        "13": "RP/textures/items/bed_green",
+        "14": "RP/textures/items/bed_red",
+        "15": "RP/textures/items/bed_black",
+        "2": "RP/textures/items/bed_magenta",
+        "3": "RP/textures/items/bed_light_blue",
+        "4": "RP/textures/items/bed_yellow",
+        "5": "RP/textures/items/bed_lime",
+        "6": "RP/textures/items/bed_pink",
+        "7": "RP/textures/items/bed_gray",
+        "8": "RP/textures/items/bed_silver",
+        "9": "RP/textures/items/bed_cyan"
+    },
+    "minecraft:bedrock": {
+        "0": "block-images/Bedrock"
+    },
+    "minecraft:bee_nest": {
+        "0": "block-images/Bee Nest"
+    },
+    "minecraft:beef": {
+        "0": "RP/textures/items/beef_raw"
+    },
+    "minecraft:beehive": {
+        "0": "block-images/Beehive"
+    },
+    "minecraft:bell": {
+        "0": "block-images/Bell"
+    },
+    "minecraft:birch_boat": {
+        "0": "RP/textures/items/boat_birch"
+    },
+    "minecraft:black_dye": {
+        "0": "RP/textures/items/dye_powder_black_new"
+    },
+    "minecraft:blackstone": {
+        "0": "block-images/Blackstone"
+    },
+    "minecraft:blast_furnace": {
+        "0": "block-images/Blast Furnace"
+    },
+    "minecraft:blaze_powder": {
+        "0": "RP/textures/items/blaze_powder"
+    },
+    "minecraft:blaze_rod": {
+        "0": "RP/textures/items/blaze_rod"
+    },
+    "minecraft:blue_dye": {
+        "0": "RP/textures/items/dye_powder_blue_new"
+    },
+    "minecraft:blue_ice": {
+        "0": "block-images/Blue Ice"
+    },
+    "minecraft:boat": {
+        "0": "RP/textures/items/boat"
+    },
+    "minecraft:bone": {
+        "0": "RP/textures/items/bone"
+    },
+    "minecraft:bone_block": {
+        "0": "block-images/Bone Block"
+    },
+    "minecraft:bone_meal": {
+        "0": "RP/textures/items/dye_powder_white"
+    },
+    "minecraft:book": {
+        "0": "RP/textures/items/book_normal"
+    },
+    "minecraft:bookshelf": {
+        "0": "block-images/Bookshelf"
+    },
+    "minecraft:bow": {
+        "0": "RP/textures/items/bow_standby"
+    },
+    "minecraft:bowl": {
+        "0": "RP/textures/items/bowl"
+    },
+    "minecraft:brewing_stand": {
+        "0": "block-images/Brewing Stand"
+    },
+    "minecraft:brick": {
+        "0": "RP/textures/items/brick"
+    },
+    "minecraft:brick_block": {
+        "0": "RP/textures/blocks/brick"
+    },
+    "minecraft:brown_dye": {
+        "0": "RP/textures/items/dye_powder_brown_new"
+    },
+    "minecraft:brown_mushroom": {
+        "0": "block-images/Brown Mushroom"
+    },
+    "minecraft:bucket": {
+        "0": "RP/textures/items/bucket_empty",
+        "1": "RP/textures/items/bucket_milk",
+        "10": "RP/textures/items/bucket_lava",
+        "8": "RP/textures/items/bucket_water"
+    },
+    "minecraft:cactus": {
+        "0": "block-images/Cactus"
+    },
+    "minecraft:cake": {
+        "0": "RP/textures/items/cake"
+    },
+    "minecraft:campfire": {
+        "0": "RP/textures/items/campfire"
+    },
+    "minecraft:candle": {
+        "0": "RP/textures/items/candles/candle"
+    },
+    "minecraft:carpet": {
+        "0": "block-images/White Carpet",
+        "1": "block-images/Orange Carpet",
+        "10": "block-images/Purple Carpet",
+        "11": "block-images/Blue Carpet",
+        "12": "block-images/Brown Carpet",
+        "13": "block-images/Green Carpet",
+        "14": "block-images/Red Carpet",
+        "15": "block-images/Black Carpet",
+        "2": "block-images/Magenta Carpet",
+        "3": "block-images/Light Blue Carpet",
+        "4": "block-images/Yellow Carpet",
+        "5": "block-images/Lime Carpet",
+        "6": "block-images/Pink Carpet",
+        "7": "block-images/Gray Carpet",
+        "8": "block-images/Light Gray Carpet",
+        "9": "block-images/Cyan Carpet"
+    },
+    "minecraft:carrot": {
+        "0": "RP/textures/items/carrot"
+    },
+    "minecraft:cartography_table": {
+        "0": "block-images/Cartography Table"
+    },
+    "minecraft:carved_pumpkin": {
+        "0": "block-images/Carved Pumpkin"
+    },
+    "minecraft:cauldron": {
+        "0": "RP/textures/items/cauldron"
+    },
+    "minecraft:chain": {
+        "0": "RP/textures/items/chain"
+    },
+    "minecraft:charcoal": {
+        "0": "RP/textures/items/charcoal"
+    },
+    "minecraft:cherry_planks": {
+        "0": "block-images/cherry_planks"
+    },
+    "minecraft:chest": {
+        "0": "block-images/Chest"
+    },
+    "minecraft:chicken": {
+        "0": "RP/textures/items/chicken_raw"
+    },
+    "minecraft:chorus_fruit": {
+        "0": "RP/textures/items/chorus_fruit"
+    },
+    "minecraft:clock": {
+        "0": "RP/textures/items/clock_item"
+    },
+    "minecraft:coal": {
+        "0": "RP/textures/items/coal"
+    },
+    "minecraft:coal_block": {
+        "0": "block-images/Block of Coal"
+    },
+    "minecraft:coal_ore": {
+        "0": "block-images/Coal Ore"
+    },
+    "minecraft:cobbled_deepslate": {
+        "0": "RP/textures/blocks/deepslate/cobbled_deepslate"
+    },
+    "minecraft:cobblestone": {
+        "0": "block-images/Cobblestone"
+    },
+    "minecraft:cobblestone_wall": {
+        "4": "block-images/Andesite Wall"
+    },
+    "minecraft:cod": {
+        "0": "RP/textures/items/fish_raw"
+    },
+    "minecraft:comparator": {
+        "0": "RP/textures/items/comparator"
+    },
+    "minecraft:compass": {
+        "0": "RP/textures/items/compass_item"
+    },
+    "minecraft:concrete": {
+        "0": "block-images/White Concrete",
+        "1": "block-images/Orange Concrete",
+        "10": "block-images/Purple Concrete",
+        "11": "block-images/Blue Concrete",
+        "12": "block-images/Brown Concrete",
+        "13": "block-images/Green Concrete",
+        "14": "block-images/Red Concrete",
+        "15": "block-images/Black Concrete",
+        "2": "block-images/Magenta Concrete",
+        "3": "block-images/Light Blue Concrete",
+        "4": "block-images/Yellow Concrete",
+        "5": "block-images/Lime Concrete",
+        "6": "block-images/Pink Concrete",
+        "7": "block-images/Gray Concrete",
+        "8": "block-images/Light Gray Concrete",
+        "9": "block-images/Cyan Concrete"
+    },
+    "minecraft:concrete:0": {
+        "0": "block-images/White Concrete"
+    },
+    "minecraft:concrete_powder": {
+        "8": "block-images/Light Gray Concrete Powder"
+    },
+    "minecraft:cooked_beef": {
+        "0": "RP/textures/items/beef_cooked"
+    },
+    "minecraft:cooked_porkchop": {
+        "0": "RP/textures/items/porkchop_cooked"
+    },
+    "minecraft:cooked_salmon": {
+        "0": "RP/textures/items/fish_salmon_cooked"
+    },
+    "minecraft:cookie": {
+        "0": "RP/textures/items/cookie"
+    },
+    "minecraft:copper_block": {
+        "0": "block-images/Block of Copper"
+    },
+    "minecraft:copper_ingot": {
+        "0": "RP/textures/items/copper_ingot"
+    },
+    "minecraft:copper_ore": {
+        "0": "block-images/Copper Ore"
+    },
+    "minecraft:coral_block": {
+        "2": "RP/textures/blocks/coral_fan_purple"
+    },
+    "minecraft:coral_fan": {
+        "2": "block-images/Bubble Coral Block"
+    },
+    "minecraft:crafting_table": {
+        "0": "block-images/Crafting Table"
+    },
+    "minecraft:crimson_fungus": {
+        "0": "RP/textures/blocks/crimson_fungus"
+    },
+    "minecraft:crimson_hyphae": {
+        "0": "block-images/Crimson Hyphae"
+    },
+    "minecraft:crimson_planks": {
+        "0": "block-images/Crimson Planks"
+    },
+    "minecraft:crimson_slab": {
+        "0": "block-images/Crimson Slab"
+    },
+    "minecraft:crimson_stem": {
+        "0": "block-images/Crimson Stem"
+    },
+    "minecraft:crossbow": {
+        "0": "RP/textures/items/crossbow_standby"
+    },
+    "minecraft:cut_copper": {
+        "0": "RP/textures/blocks/cut_copper"
+    },
+    "minecraft:cyan_dye": {
+        "0": "RP/textures/items/dye_powder_cyan"
+    },
+    "minecraft:dandelion": {
+        "0": "RP/textures/blocks/flower_dandelion"
+    },
+    "minecraft:dark_oak_boat": {
+        "0": "RP/textures/items/boat_dark_oak"
+    },
+    "minecraft:deepslate_bricks": {
+        "0": "block-images/Deepslate Bricks"
+    },
+    "minecraft:deepslate_tiles": {
+        "0": "RP/textures/blocks/deepslate/deepslate_tiles"
+    },
+    "minecraft:diamond": {
+        "0": "RP/textures/items/diamond"
+    },
+    "minecraft:diamond_axe": {
+        "0": "RP/textures/items/diamond_axe"
+    },
+    "minecraft:diamond_block": {
+        "0": "block-images/Block of Diamond"
+    },
+    "minecraft:diamond_boots": {
+        "0": "RP/textures/items/diamond_boots"
+    },
+    "minecraft:diamond_chestplate": {
+        "0": "RP/textures/items/diamond_chestplate"
+    },
+    "minecraft:diamond_helmet": {
+        "0": "RP/textures/items/diamond_helmet"
+    },
+    "minecraft:diamond_hoe": {
+        "0": "RP/textures/items/diamond_hoe"
+    },
+    "minecraft:diamond_horse_armor": {
+        "0": "RP/textures/items/diamond_horse_armor"
+    },
+    "minecraft:diamond_leggings": {
+        "0": "RP/textures/items/diamond_leggings"
+    },
+    "minecraft:diamond_ore": {
+        "0": "block-images/Diamond Ore"
+    },
+    "minecraft:diamond_pickaxe": {
+        "0": "RP/textures/items/diamond_pickaxe"
+    },
+    "minecraft:diamond_shovel": {
+        "0": "RP/textures/items/diamond_shovel"
+    },
+    "minecraft:diamond_sword": {
+        "0": "RP/textures/items/diamond_sword"
+    },
+    "minecraft:dirt": {
+        "0": "block-images/Dirt"
+    },
+    "minecraft:dispenser": {
+        "0": "block-images/Dispenser"
+    },
+    "minecraft:double_plant": {
+        "0": "RP/textures/blocks/double_plant_grass_carried",
+        "2": "RP/textures/blocks/double_plant_rose_top",
+        "3": "block-images/Large Fern",
+        "6": "RP/textures/blocks/double_plant_sunflower_front"
+    },
+    "minecraft:dragon_breath": {
+        "0": "RP/textures/items/dragons_breath"
+    },
+    "minecraft:dragon_egg": {
+        "0": "block-images/Dragon Egg"
+    },
+    "minecraft:dropper": {
+        "0": "block-images/Dropper"
+    },
+    "minecraft:dye": {
+        "0": "RP/textures/items/dye_powder_black",
+        "1": "RP/textures/items/dye_powder_red",
+        "10": "RP/textures/items/dye_powder_lime",
+        "11": "RP/textures/items/dye_powder_yellow",
+        "12": "RP/textures/items/dye_powder_light_blue",
+        "13": "RP/textures/items/dye_powder_magenta",
+        "14": "RP/textures/items/dye_powder_orange",
+        "16": "RP/textures/items/dye_powder_black_new",
+        "17": "RP/textures/items/dye_powder_brown_new",
+        "18": "RP/textures/items/dye_powder_blue_new",
+        "19": "RP/textures/items/dye_powder_white_new",
+        "2": "RP/textures/items/dye_powder_green",
+        "5": "RP/textures/items/dye_powder_purple",
+        "6": "RP/textures/items/dye_powder_cyan",
+        "7": "RP/textures/items/dye_powder_silver",
+        "8": "RP/textures/items/dye_powder_gray",
+        "9": "RP/textures/items/dye_powder_pink"
+    },
+    "minecraft:echo_shard": {
+        "0": "RP/textures/items/echo_shard"
+    },
+    "minecraft:egg": {
+        "0": "RP/textures/items/egg"
+    },
+    "minecraft:elytra": {
+        "0": "RP/textures/items/elytra"
+    },
+    "minecraft:emerald": {
+        "0": "RP/textures/items/emerald"
+    },
+    "minecraft:emerald_block": {
+        "0": "block-images/Block of Emerald"
+    },
+    "minecraft:emerald_ore": {
+        "0": "block-images/Emerald Ore"
+    },
+    "minecraft:enchanting_table": {
+        "0": "block-images/Enchanting Table"
+    },
+    "minecraft:end_bricks": {
+        "0": "block-images/End Stone Bricks"
+    },
+    "minecraft:end_rod": {
+        "0": "block-images/End Rod"
+    },
+    "minecraft:end_stone": {
+        "0": "block-images/End Stone"
+    },
+    "minecraft:ender_eye": {
+        "0": "RP/textures/items/ender_eye"
+    },
+    "minecraft:ender_pearl": {
+        "0": "RP/textures/items/ender_pearl"
+    },
+    "minecraft:exposed_cut_copper": {
+        "0": "RP/textures/blocks/exposed_cut_copper"
+    },
+    "minecraft:feather": {
+        "0": "RP/textures/items/feather"
+    },
+    "minecraft:fence": {
+        "0": "block-images/Oak Fence"
+    },
+    "minecraft:fermented_spider_eye": {
+        "0": "RP/textures/items/spider_eye_fermented"
+    },
+    "minecraft:fire_charge": {
+        "0": "RP/textures/items/fireball"
+    },
+    "minecraft:firework_rocket": {
+        "0": "RP/textures/items/fireworks"
+    },
+    "minecraft:fishing_rod": {
+        "0": "RP/textures/items/fishing_rod_uncast"
+    },
+    "minecraft:fletching_table": {
+        "0": "block-images/Fletching Table"
+    },
+    "minecraft:flint": {
+        "0": "RP/textures/items/flint"
+    },
+    "minecraft:flint_and_steel": {
+        "0": "RP/textures/items/flint_and_steel"
+    },
+    "minecraft:flower_pot": {
+        "0": "block-images/Flower Pot"
+    },
+    "minecraft:frame": {
+        "0": "RP/textures/items/item_frame"
+    },
+    "minecraft:furnace": {
+        "0": "block-images/Furnace"
+    },
+    "minecraft:ghast_tear": {
+        "0": "RP/textures/items/ghast_tear"
+    },
+    "minecraft:gilded_blackstone": {
+        "0": "block-images/Gilded Blackstone"
+    },
+    "minecraft:glass": {
+        "0": "block-images/Glass"
+    },
+    "minecraft:glass_bottle": {
+        "0": "RP/textures/items/potion_bottle_empty"
+    },
+    "minecraft:glass_pane": {
+        "0": "block-images/Glass Pane"
+    },
+    "minecraft:glow_ink_sac": {
+        "0": "RP/textures/items/dye_powder_glow"
+    },
+    "minecraft:glowstone": {
+        "0": "RP/textures/items/glowstone_dust"
+    },
+    "minecraft:glowstone_dust": {
+        "0": "RP/textures/items/glowstone_dust"
+    },
+    "minecraft:goat_horn": {
+        "0": "RP/textures/items/goat_horn"
+    },
+    "minecraft:gold_block": {
+        "0": "block-images/Block of Gold"
+    },
+    "minecraft:gold_ingot": {
+        "0": "RP/textures/items/gold_ingot"
+    },
+    "minecraft:gold_nugget": {
+        "0": "RP/textures/items/gold_nugget"
+    },
+    "minecraft:gold_ore": {
+        "0": "block-images/Gold Ore"
+    },
+    "minecraft:golden_apple": {
+        "0": "RP/textures/items/apple_golden"
+    },
+    "minecraft:golden_axe": {
+        "0": "RP/textures/items/gold_axe"
+    },
+    "minecraft:golden_boots": {
+        "0": "RP/textures/items/gold_boots"
+    },
+    "minecraft:golden_carrot": {
+        "0": "RP/textures/items/carrot_golden"
+    },
+    "minecraft:golden_chestplate": {
+        "0": "RP/textures/items/gold_chestplate"
+    },
+    "minecraft:golden_helmet": {
+        "0": "RP/textures/items/gold_helmet"
+    },
+    "minecraft:golden_horse_armor": {
+        "0": "RP/textures/items/gold_horse_armor"
+    },
+    "minecraft:golden_leggings": {
+        "0": "RP/textures/items/gold_leggings"
+    },
+    "minecraft:grass": {
+        "0": "RP/textures/blocks/grass_side_carried"
+    },
+    "minecraft:gray_dye": {
+        "0": "RP/textures/items/dye_powder_gray"
+    },
+    "minecraft:green_dye": {
+        "0": "RP/textures/items/dye_powder_green"
+    },
+    "minecraft:grindstone": {
+        "0": "block-images/Grindstone"
+    },
+    "minecraft:gunpowder": {
+        "0": "RP/textures/items/gunpowder"
+    },
+    "minecraft:hay_block": {
+        "0": "block-images/Hay Bale"
+    },
+    "minecraft:honey_bottle": {
+        "0": "RP/textures/items/honey_bottle"
+    },
+    "minecraft:honeycomb": {
+        "0": "RP/textures/items/honeycomb"
+    },
+    "minecraft:honeycomb_block": {
+        "0": "block-images/Honeycomb Block"
+    },
+    "minecraft:hopper": {
+        "0": "block-images/Hopper"
+    },
+    "minecraft:horsearmorleather": {
+        "0": "RP/textures/items/leather_horse_armor"
+    },
+    "minecraft:ice": {
+        "0": "block-images/Ice"
+    },
+    "minecraft:ink_sac": {
+        "0": "RP/textures/items/dye_powder_black"
+    },
+    "minecraft:iron_axe": {
+        "0": "RP/textures/items/iron_axe"
+    },
+    "minecraft:iron_bars": {
+        "0": "RP/textures/blocks/iron_bars"
+    },
+    "minecraft:iron_block": {
+        "0": "block-images/Block of Iron"
+    },
+    "minecraft:iron_boots": {
+        "0": "RP/textures/items/iron_boots"
+    },
+    "minecraft:iron_chestplate": {
+        "0": "RP/textures/items/iron_chestplate"
+    },
+    "minecraft:iron_door": {
+        "0": "block-images/Iron Door"
+    },
+    "minecraft:iron_helmet": {
+        "0": "RP/textures/items/iron_helmet"
+    },
+    "minecraft:iron_horse_armor": {
+        "0": "RP/textures/items/iron_horse_armor"
+    },
+    "minecraft:iron_ingot": {
+        "0": "RP/textures/items/iron_ingot"
+    },
+    "minecraft:iron_leggings": {
+        "0": "RP/textures/items/iron_leggings"
+    },
+    "minecraft:iron_nugget": {
+        "0": "RP/textures/items/iron_nugget"
+    },
+    "minecraft:iron_ore": {
+        "0": "block-images/Iron Ore"
+    },
+    "minecraft:iron_pickaxe": {
+        "0": "RP/textures/items/iron_pickaxe"
+    },
+    "minecraft:iron_sword": {
+        "0": "RP/textures/items/iron_sword"
+    },
+    "minecraft:iron_trapdoor": {
+        "0": "block-images/Iron Trapdoor"
+    },
+    "minecraft:jukebox": {
+        "0": "block-images/Jukebox"
+    },
+    "minecraft:jungle_boat": {
+        "0": "RP/textures/items/boat_jungle"
+    },
+    "minecraft:kelp": {
+        "0": "RP/textures/items/kelp"
+    },
+    "minecraft:ladder": {
+        "0": "RP/textures/blocks/ladder"
+    },
+    "minecraft:lantern": {
+        "0": "RP/textures/items/lantern"
+    },
+    "minecraft:lapis_lazuli": {
+        "0": "RP/textures/items/dye_powder_blue"
+    },
+    "minecraft:lapis_ore": {
+        "0": "block-images/Lapis Lazuli Ore"
+    },
+    "minecraft:lava_bucket": {
+        "0": "RP/textures/items/bucket_lava"
+    },
+    "minecraft:lead": {
+        "0": "RP/textures/items/lead"
+    },
+    "minecraft:leather": {
+        "0": "RP/textures/items/leather"
+    },
+    "minecraft:leather_boots": {
+        "0": "RP/textures/items/leather_boots"
+    },
+    "minecraft:leather_chestplate": {
+        "0": "RP/textures/items/leather_chestplate"
+    },
+    "minecraft:leather_helmet": {
+        "0": "RP/textures/items/leather_helmet"
+    },
+    "minecraft:leather_leggings": {
+        "0": "RP/textures/items/leather_leggings"
+    },
+    "minecraft:leaves": {
+        "0": "block-images/Oak Leaves"
+    },
+    "minecraft:lever": {
+        "0": "RP/textures/items/lever"
+    },
+    "minecraft:light_blue_dye": {
+        "0": "RP/textures/items/dye_powder_light_blue"
+    },
+    "minecraft:light_gray_dye": {
+        "0": "RP/textures/items/dye_powder_silver"
+    },
+    "minecraft:lightning_rod": {
+        "0": "block-images/Lightning Rod"
+    },
+    "minecraft:lime_dye": {
+        "0": "RP/textures/items/dye_powder_lime"
+    },
+    "minecraft:log": {
+        "0": "block-images/Oak Log",
+        "1": "block-images/Spruce Log",
+        "2": "block-images/Birch Log",
+        "3": "block-images/Jungle Log"
+    },
+    "minecraft:log2": {
+        "0": "block-images/Acacia Log",
+        "1": "block-images/Dark Oak Log"
+    },
+    "minecraft:loom": {
+        "0": "block-images/Loom"
+    },
+    "minecraft:magenta_dye": {
+        "0": "RP/textures/items/dye_powder_magenta"
+    },
+    "minecraft:magma": {
+        "0": "block-images/Magma Block"
+    },
+    "minecraft:magma_cream": {
+        "0": "RP/textures/items/magma_cream"
+    },
+    "minecraft:mangrove_log": {
+        "0": "block-images/Mangrove Log"
+    },
+    "minecraft:mangrove_planks": {
+        "0": "block-images/Mangrove Planks"
+    },
+    "minecraft:milk_bucket": {
+        "0": "RP/textures/items/bucket_milk"
+    },
+    "minecraft:minecart": {
+        "0": "RP/textures/items/minecart_normal"
+    },
+    "minecraft:mossy_cobblestone": {
+        "0": "block-images/Mossy Cobblestone"
+    },
+    "minecraft:mud_bricks": {
+        "0": "block-images/Mud Bricks"
+    },
+    "minecraft:mushroom_stew": {
+        "0": "RP/textures/items/mushroom_stew"
+    },
+    "minecraft:mutton": {
+        "0": "RP/textures/items/mutton_raw"
+    },
+    "minecraft:nether_brick": {
+        "0": "RP/textures/blocks/nether_brick"
+    },
+    "minecraft:nether_star": {
+        "0": "RP/textures/items/nether_star"
+    },
+    "minecraft:nether_wart": {
+        "0": "RP/textures/items/nether_wart"
+    },
+    "minecraft:netherite_axe": {
+        "0": "RP/textures/items/netherite_axe"
+    },
+    "minecraft:netherite_block": {
+        "0": "block-images/Block of Netherite"
+    },
+    "minecraft:netherite_boots": {
+        "0": "RP/textures/items/netherite_boots"
+    },
+    "minecraft:netherite_chestplate": {
+        "0": "RP/textures/items/netherite_chestplate"
+    },
+    "minecraft:netherite_helmet": {
+        "0": "RP/textures/items/netherite_helmet"
+    },
+    "minecraft:netherite_hoe": {
+        "0": "RP/textures/items/netherite_hoe"
+    },
+    "minecraft:netherite_ingot": {
+        "0": "RP/textures/items/netherite_ingot"
+    },
+    "minecraft:netherite_leggings": {
+        "0": "RP/textures/items/netherite_leggings"
+    },
+    "minecraft:netherite_pickaxe": {
+        "0": "RP/textures/items/netherite_pickaxe"
+    },
+    "minecraft:netherite_scrap": {
+        "0": "RP/textures/items/netherite_scrap"
+    },
+    "minecraft:netherite_shovel": {
+        "0": "RP/textures/items/netherite_shovel"
+    },
+    "minecraft:netherite_sword": {
+        "0": "RP/textures/items/netherite_sword"
+    },
+    "minecraft:netherrack": {
+        "0": "block-images/Netherrack"
+    },
+    "minecraft:normal_stone_slab": {
+        "0": "block-images/Stone Slab"
+    },
+    "minecraft:noteblock": {
+        "0": "block-images/Note Block"
+    },
+    "minecraft:oak_boat": {
+        "0": "RP/textures/items/boat_oak"
+    },
+    "minecraft:observer": {
+        "0": "block-images/Observer"
+    },
+    "minecraft:obsidian": {
+        "0": "block-images/Obsidian"
+    },
+    "minecraft:orange_dye": {
+        "0": "RP/textures/items/dye_powder_orange"
+    },
+    "minecraft:oxidized_copper": {
+        "0": "block-images/Oxidized Copper"
+    },
+    "minecraft:oxidized_cut_copper": {
+        "0": "RP/textures/blocks/oxidized_cut_copper"
+    },
+    "minecraft:packed_ice": {
+        "0": "block-images/Packed Ice"
+    },
+    "minecraft:paper": {
+        "0": "RP/textures/items/paper"
+    },
+    "minecraft:phantom_membrane": {
+        "0": "RP/textures/items/phantom_membrane"
+    },
+    "minecraft:pink_dye": {
+        "0": "RP/textures/items/dye_powder_pink"
+    },
+    "minecraft:piston": {
+        "0": "block-images/Piston"
+    },
+    "minecraft:planks": {
+        "0": "block-images/Oak Planks",
+        "1": "block-images/Spruce Planks",
+        "2": "block-images/Birch Planks",
+        "3": "block-images/Jungle Planks",
+        "4": "block-images/Acacia Planks",
+        "5": "block-images/Dark Oak Planks"
+    },
+    "minecraft:poisonous_potato": {
+        "0": "RP/textures/items/potato_poisonous"
+    },
+    "minecraft:polished_blackstone": {
+        "0": "RP/textures/blocks/polished_blackstone"
+    },
+    "minecraft:polished_blackstone_bricks": {
+        "0": "RP/textures/blocks/polished_blackstone_bricks"
+    },
+    "minecraft:polished_deepslate": {
+        "0": "RP/textures/blocks/deepslate/polished_deepslate"
+    },
+    "minecraft:porkchop": {
+        "0": "RP/textures/items/porkchop_raw"
+    },
+    "minecraft:potato": {
+        "0": "RP/textures/items/potato"
+    },
+    "minecraft:potion": {
+        "0": "RP/textures/items/potion_bottle_drinkable",
+        "1": "RP/textures/items/potion_bottle_drinkable",
+        "12": "RP/textures/items/potion_bottle_fireResistance",
+        "14": "RP/textures/items/potion_bottle_moveSpeed",
+        "17": "RP/textures/items/potion_bottle_moveSlowdown",
+        "19": "RP/textures/items/potion_bottle_waterBreathing",
+        "20": "RP/textures/items/potion_bottle_waterBreathing",
+        "21": "RP/textures/items/potion_bottle_healthBoost",
+        "25": "RP/textures/items/potion_bottle_poison",
+        "26": "RP/textures/items/potion_bottle_poison",
+        "27": "RP/textures/items/potion_bottle_poison",
+        "28": "RP/textures/items/potion_bottle_heal",
+        "29": "RP/textures/items/potion_bottle_regeneration",
+        "3": "RP/textures/items/potion_bottle_drinkable",
+        "30": "RP/textures/items/potion_bottle_healthBoost",
+        "34": "RP/textures/items/potion_bottle_weakness",
+        "4": "RP/textures/items/potion_bottle_drinkable",
+        "40": "RP/textures/items/potion_bottle_regeneration",
+        "42": "RP/textures/items/potion_bottle_damageBoost",
+        "5": "RP/textures/items/potion_bottle_nightVision",
+        "6": "RP/textures/items/potion_bottle_nightVision",
+        "7": "RP/textures/items/potion_bottle_invisibility",
+        "8": "RP/textures/items/potion_bottle_invisibility"
+    },
+    "minecraft:potion:0": {
+        "0": "RP/textures/items/potion_bottle_drinkable"
+    },
+    "minecraft:powder_snow_bucket": {
+        "0": "RP/textures/items/bucket_powder_snow"
+    },
+    "minecraft:prismarine": {
+        "0": "RP/textures/blocks/prismarine_bricks",
+        "1": "block-images/Dark Prismarine",
+        "2": "RP/textures/blocks/prismarine_dark"
+    },
+    "minecraft:prismarine_crystals": {
+        "0": "RP/textures/items/prismarine_crystals"
+    },
+    "minecraft:prismarine_shard": {
+        "0": "RP/textures/items/prismarine_shard"
+    },
+    "minecraft:pufferfish": {
+        "0": "RP/textures/items/fish_pufferfish_raw"
+    },
+    "minecraft:pufferfish_bucket": {
+        "0": "RP/textures/items/bucket_pufferfish"
+    },
+    "minecraft:pumpkin": {
+        "0": "block-images/Pumpkin"
+    },
+    "minecraft:pumpkin_pie": {
+        "0": "RP/textures/items/pumpkin_pie"
+    },
+    "minecraft:purple_dye": {
+        "0": "RP/textures/items/dye_powder_purple"
+    },
+    "minecraft:purpur_block": {
+        "0": "block-images/Purpur Block"
+    },
+    "minecraft:quartz": {
+        "0": "RP/textures/items/quartz"
+    },
+    "minecraft:quartz_block": {
+        "0": "block-images/Smooth Quartz Block",
+        "3": "RP/textures/blocks/quartz_block_top"
+    },
+    "minecraft:quartz_bricks": {
+        "0": "block-images/Quartz Bricks"
+    },
+    "minecraft:rabbit": {
+        "0": "RP/textures/items/rabbit_raw"
+    },
+    "minecraft:rabbit_foot": {
+        "0": "RP/textures/items/rabbit_foot"
+    },
+    "minecraft:rabbit_hide": {
+        "0": "RP/textures/items/rabbit_hide"
+    },
+    "minecraft:raw_gold": {
+        "0": "RP/textures/items/raw_gold"
+    },
+    "minecraft:raw_iron": {
+        "0": "RP/textures/items/raw_iron"
+    },
+    "minecraft:red_dye": {
+        "0": "RP/textures/items/dye_powder_red"
+    },
+    "minecraft:red_flower": {
+        "0": "RP/textures/blocks/flower_rose",
+        "2": "RP/textures/blocks/flower_allium",
+        "3": "RP/textures/blocks/flower_houstonia",
+        "4": "RP/textures/blocks/flower_tulip_red",
+        "5": "RP/textures/blocks/flower_tulip_orange",
+        "6": "RP/textures/blocks/flower_tulip_white",
+        "7": "RP/textures/blocks/flower_tulip_pink"
+    },
+    "minecraft:red_flower:0": {
+        "0": "RP/textures/blocks/flower_rose"
+    },
+    "minecraft:red_mushroom": {
+        "0": "RP/textures/blocks/mushroom_red"
+    },
+    "minecraft:red_nether_brick": {
+        "0": "RP/textures/blocks/red_nether_brick"
+    },
+    "minecraft:red_sandstone": {
+        "0": "block-images/Red Sandstone",
+        "2": "RP/textures/blocks/red_sandstone_smooth",
+        "3": "RP/textures/blocks/red_sandstone_top"
+    },
+    "minecraft:red_wool": {
+        "0": "block-images/Red Wool"
+    },
+    "minecraft:redstone": {
+        "0": "RP/textures/items/redstone_dust"
+    },
+    "minecraft:redstone_block": {
+        "0": "block-images/Block of Redstone"
+    },
+    "minecraft:redstone_lamp": {
+        "0": "block-images/Redstone Lamp"
+    },
+    "minecraft:redstone_ore": {
+        "0": "block-images/Redstone Ore"
+    },
+    "minecraft:redstone_torch": {
+        "0": "block-images/Redstone Torch"
+    },
+    "minecraft:repeater": {
+        "0": "RP/textures/items/repeater"
+    },
+    "minecraft:rotten_flesh": {
+        "0": "RP/textures/items/rotten_flesh"
+    },
+    "minecraft:saddle": {
+        "0": "RP/textures/items/saddle"
+    },
+    "minecraft:salmon": {
+        "0": "RP/textures/items/fish_salmon_raw"
+    },
+    "minecraft:sand": {
+        "0": "block-images/Sand"
+    },
+    "minecraft:sandstone": {
+        "0": "block-images/Sandstone",
+        "2": "RP/textures/blocks/red_sandstone_smooth",
+        "3": "RP/textures/blocks/red_sandstone_top"
+    },
+    "minecraft:sapling": {
+        "0": "RP/textures/blocks/sapling_oak",
+        "1": "RP/textures/blocks/sapling_spruce",
+        "4": "RP/textures/blocks/sapling_acacia"
+    },
+    "minecraft:scaffolding": {
+        "0": "block-images/Scaffolding"
+    },
+    "minecraft:sculk": {
+        "0": "block-images/Sculk"
+    },
+    "minecraft:scute": {
+        "0": "RP/textures/items/turtle_shell_piece"
+    },
+    "minecraft:sea_pickle": {
+        "0": "RP/textures/items/sea_pickle"
+    },
+    "minecraft:seagrass": {
+        "0": "block-images/Seagrass"
+    },
+    "minecraft:sealantern": {
+        "0": "block-images/Sea Lantern"
+    },
+    "minecraft:shield": {
+        "0": "block-images/Shield"
+    },
+    "minecraft:shulker_shell": {
+        "0": "RP/textures/items/shulker_shell"
+    },
+    "minecraft:skull": {
+        "0": "block-images/Skeleton Skull",
+        "1": "block-images/Wither Skeleton Skull",
+        "5": "block-images/Dragon Head"
+    },
+    "minecraft:slime": {
+        "0": "block-images/Slime Block"
+    },
+    "minecraft:slime_ball": {
+        "0": "RP/textures/items/slimeball"
+    },
+    "minecraft:smithing_table": {
+        "0": "block-images/Smithing Table"
+    },
+    "minecraft:smooth_basalt": {
+        "0": "RP/textures/blocks/smooth_basalt"
+    },
+    "minecraft:smooth_stone": {
+        "0": "block-images/Smooth Stone"
+    },
+    "minecraft:snow": {
+        "0": "block-images/Snow Block"
+    },
+    "minecraft:snowball": {
+        "0": "RP/textures/items/snowball"
+    },
+    "minecraft:soul_lantern": {
+        "0": "block-images/Soul Lantern"
+    },
+    "minecraft:soul_sand": {
+        "0": "block-images/Soul Sand"
+    },
+    "minecraft:soul_torch": {
+        "0": "block-images/Soul Torch"
+    },
+    "minecraft:spider_eye": {
+        "0": "RP/textures/items/spider_eye"
+    },
+    "minecraft:spruce_boat": {
+        "0": "RP/textures/items/boat_spruce"
+    },
+    "minecraft:spyglass": {
+        "0": "RP/textures/items/spyglass"
+    },
+    "minecraft:stained_glass": {
+        "0": "block-images/White Stained Glass",
+        "1": "block-images/Orange Stained Glass",
+        "10": "block-images/Purple Stained Glass",
+        "11": "block-images/Blue Stained Glass",
+        "12": "block-images/Brown Stained Glass",
+        "13": "block-images/Green Stained Glass",
+        "14": "block-images/Red Stained Glass",
+        "15": "block-images/Black Stained Glass",
+        "2": "block-images/Magenta Stained Glass",
+        "3": "block-images/Light Blue Stained Glass",
+        "4": "block-images/Yellow Stained Glass",
+        "5": "block-images/Lime Stained Glass",
+        "6": "block-images/Pink Stained Glass",
+        "7": "block-images/Gray Stained Glass",
+        "8": "block-images/Light Gray Stained Glass",
+        "9": "block-images/Cyan Stained Glass"
+    },
+    "minecraft:stained_glass_pane": {
+        "0": "RP/textures/blocks/glass_white"
+    },
+    "minecraft:stained_hardened_clay": {
+        "0": "block-images/White Concrete",
+        "1": "block-images/Orange Concrete",
+        "10": "block-images/Purple Concrete",
+        "11": "block-images/Blue Concrete",
+        "12": "block-images/Brown Concrete",
+        "13": "block-images/Green Concrete",
+        "14": "block-images/Red Concrete",
+        "15": "block-images/Black Concrete",
+        "2": "block-images/Magenta Concrete",
+        "3": "block-images/Light Blue Concrete",
+        "4": "block-images/Yellow Concrete",
+        "5": "block-images/Lime Concrete",
+        "6": "block-images/Pink Concrete",
+        "7": "block-images/Gray Concrete",
+        "8": "block-images/Light Gray Concrete",
+        "9": "block-images/Cyan Concrete"
+    },
+    "minecraft:stick": {
+        "0": "RP/textures/items/stick"
+    },
+    "minecraft:stone": {
+        "0": "block-images/Stone",
+        "1": "block-images/Granite",
+        "2": "block-images/Diorite",
+        "3": "block-images/Andesite",
+        "4": "RP/textures/blocks/stone_diorite_smooth",
+        "5": "block-images/Andesite",
+        "6": "block-images/Polished Andesite"
+    },
+    "minecraft:stone_block_slab": {
+        "0": "block-images/Stone Slab"
+    },
+    "minecraft:stone_button": {
+        "0": "block-images/Stone Button"
+    },
+    "minecraft:stone_pressure_plate": {
+        "0": "block-images/Stone Pressure Plate"
+    },
+    "minecraft:stone_slab": {
+        "0": "block-images/Smooth Stone Slab"
+    },
+    "minecraft:stone_slab2": {
+        "0": "block-images/Smooth Stone Slab"
+    },
+    "minecraft:stone_slab3": {
+        "0": "block-images/Mossy Stone Brick Slab"
+    },
+    "minecraft:stone_slab4": {
+        "0": "block-images/Mossy Stone Brick Slab"
+    },
+    "minecraft:stonebrick": {
+        "0": "block-images/Stone Bricks",
+        "1": "RP/textures/blocks/stonebrick_mossy"
+    },
+    "minecraft:string": {
+        "0": "RP/textures/items/string"
+    },
+    "minecraft:stripped_acacia_log": {
+        "0": "block-images/Stripped Acacia Log"
+    },
+    "minecraft:stripped_birch_log": {
+        "0": "block-images/Stripped Birch Log"
+    },
+    "minecraft:stripped_crimson_stem": {
+        "0": "block-images/Stripped Crimson Stem"
+    },
+    "minecraft:stripped_dark_oak_log": {
+        "0": "block-images/Stripped Dark Oak Log"
+    },
+    "minecraft:stripped_jungle_log": {
+        "0": "block-images/Stripped Jungle Log"
+    },
+    "minecraft:stripped_oak_log": {
+        "0": "block-images/Stripped Oak Log"
+    },
+    "minecraft:stripped_spruce_log": {
+        "0": "block-images/Stripped Spruce Log"
+    },
+    "minecraft:stripped_warped_stem": {
+        "0": "block-images/Stripped Warped Stem"
+    },
+    "minecraft:sugar": {
+        "0": "RP/textures/items/sugar"
+    },
+    "minecraft:sugar_cane": {
+        "0": "block-images/Sugar Cane"
+    },
+    "minecraft:sweet_berries": {
+        "0": "RP/textures/items/sweet_berries"
+    },
+    "minecraft:tallgrass": {
+        "0": "RP/textures/blocks/tallgrass_carried_item",
+        "1": "RP/textures/blocks/tallgrass_carried_item"
+    },
+    "minecraft:target": {
+        "0": "block-images/Target"
+    },
+    "minecraft:tinted_glass": {
+        "0": "block-images/Tinted Glass"
+    },
+    "minecraft:tnt": {
+        "0": "block-images/TNT"
+    },
+    "minecraft:torch": {
+        "0": "RP/textures/blocks/torch_on"
+    },
+    "minecraft:totem": {
+        "0": "RP/textures/items/totem"
+    },
+    "minecraft:totem_of_undying": {
+        "0": "RP/textures/items/totem"
+    },
+    "minecraft:trapdoor": {
+        "0": "RP/textures/blocks/trapdoor"
+    },
+    "minecraft:trident": {
+        "0": "RP/textures/items/trident"
+    },
+    "minecraft:tripwire_hook": {
+        "0": "RP/textures/blocks/trip_wire_source"
+    },
+    "minecraft:tropical_fish": {
+        "0": "RP/textures/items/fish_clownfish_raw"
+    },
+    "minecraft:tropical_fish_bucket": {
+        "0": "RP/textures/items/bucket_tropical"
+    },
+    "minecraft:twisting_vines": {
+        "0": "block-images/Twisting Vines"
+    },
+    "minecraft:verdant_froglight": {
+        "0": "block-images/Verdant Froglight"
+    },
+    "minecraft:vine": {
+        "0": "RP/textures/blocks/vine_carried"
+    },
+    "minecraft:warped_fence": {
+        "0": "block-images/Warped Fence"
+    },
+    "minecraft:warped_fungus": {
+        "0": "RP/textures/blocks/warped_fungus"
+    },
+    "minecraft:warped_planks": {
+        "0": "block-images/Warped Planks"
+    },
+    "minecraft:warped_roots": {
+        "0": "RP/textures/blocks/warped_roots"
+    },
+    "minecraft:warped_slab": {
+        "0": "block-images/Oak Slab"
+    },
+    "minecraft:warped_stem": {
+        "0": "block-images/Warped Stem"
+    },
+    "minecraft:water_bucket": {
+        "0": "RP/textures/items/bucket_water"
+    },
+    "minecraft:waxed_cut_copper": {
+        "0": "RP/textures/blocks/cut_copper"
+    },
+    "minecraft:waxed_exposed_cut_copper": {
+        "0": "RP/textures/blocks/exposed_cut_copper"
+    },
+    "minecraft:waxed_oxidized_cut_copper": {
+        "0": "RP/textures/blocks/oxidized_cut_copper"
+    },
+    "minecraft:waxed_weathered_cut_copper": {
+        "0": "RP/textures/blocks/weathered_cut_copper"
+    },
+    "minecraft:weathered_cut_copper": {
+        "0": "RP/textures/blocks/weathered_cut_copper"
+    },
+    "minecraft:web": {
+        "0": "RP/textures/blocks/web"
+    },
+    "minecraft:weeping_vines": {
+        "0": "RP/textures/blocks/weeping_vines_base"
+    },
+    "minecraft:wheat": {
+        "0": "RP/textures/items/wheat"
+    },
+    "minecraft:wheat_seeds": {
+        "0": "RP/textures/items/seeds_wheat"
+    },
+    "minecraft:white_dye": {
+        "0": "RP/textures/items/dye_powder_white_new"
+    },
+    "minecraft:white_wool": {
+        "0": "block-images/White Wool"
+    },
+    "minecraft:wind_charge": {
+        "0": "RP/textures/items/wind_charge"
+    },
+    "minecraft:wither_rose": {
+        "0": "RP/textures/blocks/flower_wither_rose"
+    },
+    "minecraft:wood": {
+        "0": "block-images/Oak Wood"
+    },
+    "minecraft:wooden_axe": {
+        "0": "RP/textures/items/wood_axe"
+    },
+    "minecraft:wooden_button": {
+        "0": "block-images/Oak Button"
+    },
+    "minecraft:wooden_hoe": {
+        "0": "RP/textures/items/wood_hoe"
+    },
+    "minecraft:wooden_pickaxe": {
+        "0": "RP/textures/items/wood_pickaxe"
+    },
+    "minecraft:wooden_shovel": {
+        "0": "RP/textures/items/wood_shovel"
+    },
+    "minecraft:wooden_slab": {
+        "0": "block-images/Oak Slab",
+        "1": "block-images/Spruce Slab",
+        "2": "block-images/Jungle Slab",
+        "3": "block-images/Jungle Slab",
+        "4": "block-images/Acacia Slab",
+        "5": "block-images/Dark Oak Slab"
+    },
+    "minecraft:wooden_sword": {
+        "0": "RP/textures/items/wood_sword"
+    },
+    "minecraft:wool": {
+        "0": "block-images/White Wool",
+        "1": "block-images/Orange Wool",
+        "10": "block-images/Purple Wool",
+        "11": "block-images/Blue Wool",
+        "12": "block-images/Brown Wool",
+        "13": "block-images/Green Wool",
+        "14": "block-images/Red Wool",
+        "15": "block-images/Black Wool",
+        "2": "block-images/Magenta Wool",
+        "3": "block-images/Light Blue Wool",
+        "4": "block-images/Yellow Wool",
+        "5": "block-images/Lime Wool",
+        "6": "block-images/Pink Wool",
+        "7": "block-images/Gray Wool",
+        "8": "block-images/Light Gray Wool",
+        "9": "block-images/Cyan Wool"
+    },
+    "minecraft:wool:0": {
+        "0": "block-images/White Wool"
+    },
+    "minecraft:yellow_candle": {
+        "0": "RP/textures/items/candles/yellow_candle"
+    },
+    "minecraft:yellow_dye": {
+        "0": "RP/textures/items/dye_powder_yellow"
+    },
+    "minecraft:yellow_flower": {
+        "0": "RP/textures/blocks/flower_dandelion"
+    },
+    "skull": {
+        "1": "block-images/Wither Skeleton Skull"
+    },
+    "wool": {
+        "1": "block-images/Orange Wool",
+        "11": "block-images/Blue Wool",
+        "14": "block-images/Red Wool",
+        "4": "block-images/Yellow Wool"
+    },
+    "wool:0": {
+        "0": "block-images/White Wool"
+    }
+}
