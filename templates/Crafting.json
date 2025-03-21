@@ -1,0 +1,24 @@
+{
+	"output_file_name": "${last_recipe_namespace}-${last_recipe_name}",
+	"size": [118, 55],
+	"foreground": [
+		{
+			"background": "crafting_full_background.png",
+			"item_type": "recipe_shaped",
+			"offset": [0, 0],
+			"recipe_pattern": ".+",
+			"items": {
+				"0,0": {"size": [16, 16], "offset": [2, 2]},
+				"1,0": {"size": [16, 16], "offset": [2, 20]},
+				"2,0": {"size": [16, 16], "offset": [2, 38]},
+				"0,1": {"size": [16, 16], "offset": [20, 2]},
+				"1,1": {"size": [16, 16], "offset": [20, 20]},
+				"2,1": {"size": [16, 16], "offset": [20, 38]},
+				"0,2": {"size": [16, 16], "offset": [38, 2]},
+				"1,2": {"size": [16, 16], "offset": [38, 20]},
+				"2,2": {"size": [16, 16], "offset": [38, 38]},
+				"result": {"size": [16, 16], "offset":[96, 21]}
+			}
+		}
+	]
+}

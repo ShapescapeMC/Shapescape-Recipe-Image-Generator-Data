@@ -1,0 +1,16 @@
+{
+	"output_file_name": "${last_recipe_namespace}-${last_recipe_name}",
+	"size": [118, 55],
+	"foreground": [
+		{
+			"background": "brewing_ingredients_background.png",
+			"item_type": "recipe_brewing",
+			"offset": [0, 0],
+			"recipe_pattern": ".+",
+			"items": {
+				"reagent": {"size": [16, 16], "offset":[20, 2]},
+				"input": {"size": [16, 16], "offset":[20, 36]}
+			}
+		}
+	]
+}

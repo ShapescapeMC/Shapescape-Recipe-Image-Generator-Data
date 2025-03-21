@@ -1,0 +1,16 @@
+{
+	"output_file_name": "${last_recipe_namespace}-${last_recipe_name}",
+	"size": [118, 55],
+	"foreground": [
+		{
+			"background": "furnace_full_background.png",
+			"item_type": "recipe_furnace",
+			"offset": [0, 0],
+			"recipe_pattern": ".+",
+			"items": {
+				"input": {"size": [16, 16], "offset":[20, 2]},
+				"output": {"size": [16, 16], "offset":[96, 21]}
+			}
+		}
+	]
+}

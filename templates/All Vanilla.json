@@ -1,0 +1,43 @@
+{
+	"output_file_name": "${last_recipe_namespace}-${last_recipe_name}",
+	"size": [138, 75],
+	"foreground": [
+		{
+			"item_type": "recipe_any",
+			"recipe_pattern": ".+",
+			"recipe_shaped": {
+				"background": "vanilla_crafting_full_background.png",
+				"offset": [0, 0],
+				"items": {
+					"0,0": {"size": [16, 16], "offset": [12, 12]},
+					"1,0": {"size": [16, 16], "offset": [12, 30]},
+					"2,0": {"size": [16, 16], "offset": [12, 48]},
+					"0,1": {"size": [16, 16], "offset": [30, 12]},
+					"1,1": {"size": [16, 16], "offset": [30, 30]},
+					"2,1": {"size": [16, 16], "offset": [30, 48]},
+					"0,2": {"size": [16, 16], "offset": [48, 12]},
+					"1,2": {"size": [16, 16], "offset": [48, 30]},
+					"2,2": {"size": [16, 16], "offset": [48, 48]},
+					"result": {"size": [16, 16], "offset":[106, 30]}
+				}
+			},
+			"recipe_furnace": {
+				"background": "vanilla_furnace_full_background.png",
+				"offset": [0, 0],
+				"items": {
+					"input": {"size": [16, 16], "offset": [30, 12]},
+					"output": {"size": [16, 16], "offset": [106, 30]}
+				}
+			},
+			"recipe_brewing": {
+				"background": "vanilla_brewing_full_background.png",
+				"offset": [0, 0],
+				"items": {
+					"reagent": {"size": [16, 16], "offset": [47, 9]},
+					"input": {"size": [16, 16], "offset": [47, 43]},
+					"output": {"size": [16, 16], "offset": [94, 26]}
+				}
+			}
+		}
+	]
+}
